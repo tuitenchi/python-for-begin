@@ -1,4 +1,4 @@
-# DragGAN
+# Me trying pthon
 [![PyPI](https://img.shields.io/pypi/v/draggan)](https://pypi.org/project/draggan/) 
 [![support](https://img.shields.io/badge/Support-macOS%20%7C%20Windows%20%7C%20Linux-blue)](#running-locally)
 
